@@ -182,7 +182,7 @@ describe "#display_board in 'lib/display_board.rb" do
       # Hint: You should be able to copy the code in the previous it example
       # and make a few simple edits to convert the previous example to this
       # example's situation.
-        
+
         board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"] # This is not correct
 
         # Don't touch the following lines.
