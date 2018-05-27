@@ -3,8 +3,7 @@
 board_array = [" "," "," "," "," "," "," "," "," "]
 
 def board_move (player, space)
-  board_array[#{space -1}] = player
-  puts board_array
+  board_array['#{space -1}'] = player
 end
 
 board_move('X', 4)
