@@ -9,3 +9,5 @@ def display_board
   puts "-----------"
   puts " board_array[6] | board_array[7] | board_array[8] "
 end
+
+display_board
