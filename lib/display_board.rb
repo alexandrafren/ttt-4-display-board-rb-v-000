@@ -10,4 +10,4 @@ def display_board(board_array)
   puts " #{board_array[6]} | #{board_array[7]} | #{board_array[8]} "
 end
 
-display_board
+display_board("O", "X", " ", " ", "X", " ", "X", "O", " ")
